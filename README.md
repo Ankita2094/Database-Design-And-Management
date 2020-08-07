@@ -18,7 +18,7 @@ Choosing a college is an overwhelming process. Independent reviews of colleges a
 
 ## PROJECT DESCRIPTION
 
-Over the course of this project we will be developing a database to store,manage and analyze data of US universities. The scenario is that if a student wants to pick a college when presented with multiple options they can query the database to unerstand the pros and cons of a university/college. Data about the universities from Data.gov, ranking by category from US news and reviews of a college from twitter are combined to produce this database. 
+Over the course of this project a database is developed to store,manage and analyze data of US universities. The scenario is that if a student wants to pick a college when presented with multiple options they can query the database to unerstand the pros and cons of a university/college. Data about the universities from Data.gov, ranking by category from US news and reviews of a college from twitter are combined to produce this database. 
 
 ## REQUIREMENTS
 
