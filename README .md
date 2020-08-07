@@ -54,7 +54,7 @@ Similarly, the *Top 100 Uni* contains the ranking of all universities combined.
 
 Every *University's* required *SAT score* contains the SAT score average for Critical Reading, Math Writing and Cumulative.
 
-![WhatsApp%20Image%202020-04-24%20at%206.24.55%20PM.jpeg](attachment:WhatsApp%20Image%202020-04-24%20at%206.24.55%20PM.jpeg)
+![alt text](https://github.com/Ankita2094/DataDesignAndManagement/blob/master/ER_Diagram/ER_DiagramPNG.PNG)
 
 ## PROCESS
 
