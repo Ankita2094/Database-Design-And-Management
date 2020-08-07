@@ -1,0 +1,1 @@
+Select School_Name,max(Student_Size) as TotalStudents from us_universities group by School_Name limit 10;

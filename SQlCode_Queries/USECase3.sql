@@ -1,0 +1,1 @@
+SELECT * FROM universities.top_business_school limit 10;
